@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AsecAR/ViewController.swift"
+            timestampString = "529342843.409924"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__deallocating_deinit"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280851.081431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AsecAR.ViewController"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280851.08322"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AsecAR.ViewController"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280851.084974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AsecAR.ViewController&gt;"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280851.086835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AsecAR.ViewController&gt;"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280851.089985"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AsecAR/ViewController.swift"
+            timestampString = "529342843.47405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__deallocating_deinit"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280862.643009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AsecAR.ViewController"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280862.647068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AsecAR.ViewController"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280862.649314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AsecAR.ViewController&gt;"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280862.651821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsecAR.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AsecAR.ViewController&gt;"
+                  moduleName = "AsecAR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russellratcliffe/Desktop/AsecAR/AsecAR/ViewController.swift"
+                  timestampString = "529280862.654063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AsecAR/ViewController.swift"
+            timestampString = "529342843.475155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
